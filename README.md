@@ -17,3 +17,8 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+
+
+necesito hacer que cuando ponga un numero en el input text, y luego que el usuario click el boton de convert, se modifiquen 3 escenarios, 
+necesito modificar el numero (20), se va a dejar donde dice meters=, liters= and kilos=, porque no se modificara. se va a modificar el resultado, el resultado debe ser (0.000) con tres numeros despues de punto  
